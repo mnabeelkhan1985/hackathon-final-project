@@ -1,0 +1,21 @@
+*{margin:0;padding:0}
+.logo{height:50px;width:100px;border-radius:5px;}
+.d-block>.w-100>img{height:500px;}
+body{
+    font-family: sans-serif;
+}
+#nav-bar{
+    position:sticky;
+    top:0;
+    z-index: 10;
+}
+.navbar{
+
+    background-image: linear-gradient(to right,rgb(8, 45, 87),rgb(188, 147, 218));
+    padding:0 !important
+}
+.navbar-nav li a{
+
+    color:#fff !important;
+    font-weight: 600;
+}
